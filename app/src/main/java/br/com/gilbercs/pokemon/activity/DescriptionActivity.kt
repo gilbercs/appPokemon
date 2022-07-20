@@ -1,4 +1,4 @@
-package br.com.gilbercs.pokemon.view
+package br.com.gilbercs.pokemon.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

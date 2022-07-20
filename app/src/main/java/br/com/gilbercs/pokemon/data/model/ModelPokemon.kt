@@ -1,4 +1,4 @@
-package br.com.gilbercs.pokemon.model
+package br.com.gilbercs.pokemon.data.model
 
 import android.os.Parcelable
 import com.google.gson.annotations.SerializedName

@@ -13,15 +13,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Pokemon">
         <activity
-            android:name=".view.DescriptionActivity"
-            android:parentActivityName=".view.MainActivity"
+            android:name=".activity.DescriptionActivity"
+            android:parentActivityName=".activity.MainActivity"
             android:exported="true" />
         <activity
             android:name=".adapter.AdapterPokemon"
             android:exported="true"
             tools:ignore="Instantiatable" />
         <activity
-            android:name=".view.MainActivity"
+            android:name=".activity.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">App Pokemon</string>
+    <string name="app_name">Pokemon</string>
     <!--String utilizado no app-->
     <string name="str_name">Nome Pokemon</string>
     <string name="str_url">Url</string>
@@ -7,8 +7,12 @@
     <!--String menu-->
     <string name="str_menu_description">Descrição do App</string>
     <string name="str_menu_sair">Sair</string>
-    <string name="drescription">Este projeto mostrar de formar simples o desenvolvimento de uma aplicação de lista de pokemons. A função principal do App sera consumir a API  sobre pokemons destinada a fins educacionais e gratuita, utilizando Retrofit para realizar requisições HTTP partindo de um aplicativo Android desenvolvido na liguagem de programação kotlin...
-O projeto está disponivel no Github. Fique a vontade para consultá-lo e se este projeto te ajudar, recomende aos seus colegas...
-Atenciosamente,
-Gilber Carvalho de Souza</string>
+    <string name="drescription">Este projeto mostrar de formar simples o desenvolvimento de uma
+        aplicação de lista de pokemons. A função principal do App sera consumir a API  sobre
+        pokemons destinada a fins educacionais e gratuita, utilizando Retrofit para realizar
+        requisições HTTP partindo de um aplicativo Android desenvolvido na liguagem de programação kotlin...
+        O projeto está disponivel no Github. Fique a vontade para consultá-lo e se este projeto te ajudar,
+        recomende aos seus colegas...
+        Atenciosamente,
+        Gilber Carvalho de Souza</string>
 </resources>

@@ -6,10 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import br.com.gilbercs.pokemon.R
-import br.com.gilbercs.pokemon.model.ModelPokemon
-import br.com.gilbercs.pokemon.model.ModelPokemonRepo
-import com.bumptech.glide.Glide
-import com.bumptech.glide.load.engine.DiskCacheStrategy
+import br.com.gilbercs.pokemon.data.model.ModelPokemon
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.activity_adapter_pokemon.view.*
 
